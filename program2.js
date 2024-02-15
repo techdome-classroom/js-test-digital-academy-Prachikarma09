@@ -9,8 +9,8 @@ var romanToInt =function(s){
         romanMap.set('V', 5);
         romanMap.set('X', 10);
         romanMap.set('L', 50);
-        romanMap.put('C', 100);
-        romanMap.put('D', 500);
+        romanMap.set('C', 100);
+        romanMap.set('D', 500);
         romanMap.put('M', 1000);
 
         int n = s.length();
