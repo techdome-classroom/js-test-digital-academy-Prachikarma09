@@ -4,7 +4,7 @@
  */
 public class romanToInt {
     public int romanToInt(String s){
-        
+        Map<charac
     }
 }
     
