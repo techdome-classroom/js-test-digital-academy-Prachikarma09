@@ -18,7 +18,7 @@ var romanToInt =function(s){
 
         for (let i= n-2; i> 0; i--){
              
-            if(romanMap.get(s[i]) > romanMap.get(s.charAt(i + 1)){
+            if(romanMap.get(s[i]) > romanMap.get(s(i + 1)){
                 num += romanMap.get(s.charAt(i));
             }else{
                 num -= romanMap.get(s.charAt(i));
