@@ -13,7 +13,7 @@ var romanToInt =function(s){
         romanMap.set('D', 500);
         romanMap.set('M', 1000);
 
-        int n = s.length();
+        const n = s.length();
         int num = romanMap.get(s.charAt(n-1));
 
         for (int i= n-2; i> 0; i--){
