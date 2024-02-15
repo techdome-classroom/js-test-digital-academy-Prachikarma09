@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-var romanToInts =function(){
+var romanToInt =function(s){
     public int romanToInt(String s){
         Map<CharacterData, Integer> romanMap = new Hashmap<>();
         romanMap.put('I', 1);
