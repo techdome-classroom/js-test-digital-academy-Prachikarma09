@@ -13,7 +13,7 @@ public class romanToInt {
         romanMap.put('D', 500);
         romanMap.put('M', 1000);
 
-        int
+        int n = s.length()
 
 
     }
