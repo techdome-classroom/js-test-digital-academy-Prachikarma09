@@ -14,7 +14,7 @@ public class romanToInt {
         romanMap.put('M', 1000);
 
         int n = s.length();
-        int num = romanMap.get(s.charAt(n-1))
+        int num = romanMap.get(s.charAt(n-1));
 
 
     }
