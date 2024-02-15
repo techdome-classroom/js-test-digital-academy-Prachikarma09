@@ -12,7 +12,7 @@ const isValid = (s) => {
             stack.push(s[i]);
         }else if (s[i] === ')' && top === '(' && stack.length !==0){
             stack.pop();
-        }elae if (s[i]) === ''
+        }elae if (s[i]) === ']'
     
     }
     
