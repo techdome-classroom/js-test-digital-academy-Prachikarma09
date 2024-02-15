@@ -5,7 +5,7 @@
 const isValid = (s) => {
     const stack =[];
     
-    for 
+    for (let)
     
 };
 
