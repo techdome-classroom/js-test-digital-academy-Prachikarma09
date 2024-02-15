@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-public class Roman
+public class romanToInt
     
 };
 
