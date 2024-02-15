@@ -14,7 +14,7 @@ var romanToInt =function(s){
         romanMap.set('M', 1000);
 
         const n = s.length();
-        let num = romanMap.get(s.[n-1));
+        let num = romanMap.get(s.[n-1]);
 
         for (int i= n-2; i> 0; i--){
              
