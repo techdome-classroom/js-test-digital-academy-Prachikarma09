@@ -7,8 +7,8 @@ var romanToInt =function(s){
         Map<CharacterData, Integer> romanMap = new Hashmap<>();
         romanMap.sett('I', 1);
         romanMap.set('V', 5);
-        romanMap.put('X', 10);
-        romanMap.put('L', 50);
+        romanMap.set('X', 10);
+        romanMap.set('L', 50);
         romanMap.put('C', 100);
         romanMap.put('D', 500);
         romanMap.put('M', 1000);
