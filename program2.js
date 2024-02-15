@@ -9,7 +9,7 @@ public class romanToInt {
         romanMap.put('V', 5);
         romanMap.put('X', 10);
         romanMap.put('L', 50);
-        romanMap.put('', 1);
+        romanMap.put('C', 1);
 
 
 
