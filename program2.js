@@ -5,7 +5,7 @@
 var romanToInt =function(s){
     const romanMap= new Map();
         
-        romanMap.sett('I', 1);
+        romanMap.set('I', 1);
         romanMap.set('V', 5);
         romanMap.set('X', 10);
         romanMap.set('L', 50);
