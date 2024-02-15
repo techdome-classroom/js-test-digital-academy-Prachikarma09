@@ -18,7 +18,7 @@ public class romanToInt {
 
         for (int i= n-2; i> 0; i--){
              
-            if(romanMap.get(s.charAt(i)) > romanMap.get(s.charAt(I +)))
+            if(romanMap.get(s.charAt(i)) > romanMap.get(s.charAt(i +)))
         }
 
 
