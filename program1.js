@@ -16,7 +16,9 @@ const isValid = (s) => {
             stack.pop();
         }else if (s[i] === '}' && top ===  '{' && stack.length !==0){
             stack.pop();
-        }else
+        }else {
+            return false;
+        }
     
     }
     
