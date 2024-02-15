@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = (s) => {
+var isValid = function (s) => {
     const stack =[];
     
     for (let i=0;i<s.length; i += 1){
