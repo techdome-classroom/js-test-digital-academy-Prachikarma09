@@ -25,7 +25,7 @@ public class romanToInt {
             }
         }
 
-
+     return num;
     }
 }
     
