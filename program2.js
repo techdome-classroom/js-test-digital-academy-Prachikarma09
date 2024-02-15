@@ -4,7 +4,7 @@
  */
 public class romanToInt {
     public int romanToInt(String s){
-        Map<CharacterData, Integer> romanMap = new Hashmap<>
+        Map<CharacterData, Integer> romanMap = new Hashmap<>()
     }
 }
     
