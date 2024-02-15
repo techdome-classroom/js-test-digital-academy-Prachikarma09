@@ -3,6 +3,7 @@
  * @return {boolean}
  */
 const isValid = (s) => {
+    const stack
     
 };
 
