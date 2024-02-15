@@ -22,8 +22,8 @@ const isValid = (s) => {
     
     }
     
-    
-    
+   return stack.length 
+
 };
 
 module.exports = { isValid };
