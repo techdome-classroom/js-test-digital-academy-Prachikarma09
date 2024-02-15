@@ -9,7 +9,7 @@ var isValid = function (s)  {
         
 
         if(s[i] === '(' || s[i] === '{' || s[i] === '['){
-            leftS.push(s[i]);
+            leftSymbols.push(s[i]);
         }else if (s[i] === ')' && top === '(' && stack.length !==0){
             stack.pop();
         }else if (s[i] === ']' && top === '[' && stack.length !==0){
