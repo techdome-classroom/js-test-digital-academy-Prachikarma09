@@ -3,7 +3,7 @@
  * @return {number}
  */
 public class romanToInt {
-    public int romanToInt
+    public int romanToInt(String s)
 }
     
 };
