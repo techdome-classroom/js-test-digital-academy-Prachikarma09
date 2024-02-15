@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 const isValid = (s) => {
-    const stack =
+    const stack =[];
     
 };
 
