@@ -7,7 +7,8 @@ public class romanToInt {
         Map<CharacterData, Integer> romanMap = new Hashmap<>();
         romanMap.put('I', 1);
         romanMap.put('V', 5);
-        romanMap.put('X', 10);romanMap.put('I', 1);
+        romanMap.put('X', 10);
+        romanMap.put('I', 1);
 
 
     }
