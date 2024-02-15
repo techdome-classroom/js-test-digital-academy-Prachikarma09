@@ -5,7 +5,7 @@
 public class romanToInt {
     public int romanToInt(String s){
         Map<CharacterData, Integer> romanMap = new Hashmap<>();
-        romanMap
+        romanMap.put
     }
 }
     
