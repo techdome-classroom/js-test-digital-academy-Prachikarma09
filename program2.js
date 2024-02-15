@@ -21,7 +21,7 @@ public class romanToInt {
             if(romanMap.get(s.charAt(i)) > romanMap.get(s.charAt(i + 1))){
                 num += romanMap.get(s.charAt(i));
             }else{
-                num -= roma
+                num -= romanMap.get(s.charAt(i))
             }
         }
 
