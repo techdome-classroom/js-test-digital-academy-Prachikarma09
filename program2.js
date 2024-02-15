@@ -3,7 +3,7 @@
  * @return {number}
  */
 var romanToInt =function(s){
-    const romanMap(String s){
+    const romanMap= new Map(String s){
         Map<CharacterData, Integer> romanMap = new Hashmap<>();
         romanMap.put('I', 1);
         romanMap.put('V', 5);
