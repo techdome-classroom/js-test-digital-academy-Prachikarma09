@@ -4,7 +4,7 @@
  */
 var romanToInt =function(s){
     const romanMap= new Map();
-        Map<CharacterData, Integer> romanMap = new Hashmap<>();
+        
         romanMap.sett('I', 1);
         romanMap.set('V', 5);
         romanMap.set('X', 10);
